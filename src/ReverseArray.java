@@ -25,7 +25,7 @@ public class ReverseArray {
         }
 
         // in ra mang da nhap nhap
-        System.out.printf("%-20s%s", "Element in array: ","");
+        System.out.printf( "%-20s%s","Element in array: ","");
         for (int j = 0; j < array.length; j++) {
             System.out.print(array[j] + "\t");
         }
